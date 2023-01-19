@@ -4,7 +4,7 @@ import json
 import requests
 
 
-API_TOKEN = "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"
+API_TOKEN = ""
 
 
 def query(payload='', parameters=None, options={'use_cache': False}):
